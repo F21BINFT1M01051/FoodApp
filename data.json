@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "Layer Burger",
+        "category": "Veggie Burger",
+        "rating": 4.5,
+        "img": "product_A",
+        "price": "15$",
+        "description": "Juicy, big, loaded with toppings of my choice. High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!",
+        "nutrition": [
+            {
+                "Calories": "418 cal"
+            },
+            {
+                "Fat": "20.9 g"
+            },
+            {
+                "Sodium": "515 mg"
+            },
+            {
+                "Carbohydrates": "30 g"
+            },
+            {
+                "Fiber": "1 g"
+            },
+            {
+                "Sugars": "4.4 g"
+            },
+            {
+                "Protein": "25.4 g"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ham Burger",
+        "category": "Veggie Burger",
+        "rating": 4.8,
+        "img": "product_B",
+        "price": "16.9 $",
+        "description": "Juicy, big, loaded with toppings of my choice. High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!",
+        "nutrition": [
+            {
+                "Calories": "418 cal"
+            },
+            {
+                "Fat": "20.9 g"
+            },
+            {
+                "Sodium": "515 mg"
+            },
+            {
+                "Carbohydrates": "30 g"
+            },
+            {
+                "Fiber": "1 g"
+            },
+            {
+                "Sugars": "4.4 g"
+            },
+            {
+                "Protein": "25.4 g"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cheese Burger",
+        "category": "Veggie Burger",
+        "rating": 4.2,
+        "img": "product_C",
+        "price": "18 $",
+        "description": "Juicy, big, loaded with toppings of my choice. High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!",
+        "nutrition": [
+            {
+                "Calories": "418 cal"
+            },
+            {
+                "Fat": "20.9 g"
+            },
+            {
+                "Sodium": "515 mg"
+            },
+            {
+                "Carbohydrates": "30 g"
+            },
+            {
+                "Fiber": "1 g"
+            },
+            {
+                "Sugars": "4.4 g"
+            },
+            {
+                "Protein": "25.4 g"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Chicken Burger",
+        "category": "Veggie Burger",
+        "rating": 4.2,
+        "img": "product_D",
+        "price": "15.6 $",
+        "description": "Juicy, big, loaded with toppings of my choice. High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!",
+        "nutrition": [
+            {
+                "Calories": "418 cal"
+            },
+            {
+                "Fat": "20.9 g"
+            },
+            {
+                "Sodium": "515 mg"
+            },
+            {
+                "Carbohydrates": "30 g"
+            },
+            {
+                "Fiber": "1 g"
+            },
+            {
+                "Sugars": "4.4 g"
+            },
+            {
+                "Protein": "25.4 g"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Zinger Burger",
+        "category": "Veggie Burger",
+        "rating": 4.2,
+        "img": "product_E",
+        "price": "18 $",
+        "description": "Juicy, big, loaded with toppings of my choice. High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!",
+        "nutrition": [
+            {
+                "Calories": "418 cal"
+            },
+            {
+                "Fat": "20.9 g"
+            },
+            {
+                "Sodium": "515 mg"
+            },
+            {
+                "Carbohydrates": "30 g"
+            },
+            {
+                "Fiber": "1 g"
+            },
+            {
+                "Sugars": "4.4 g"
+            },
+            {
+                "Protein": "25.4 g"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Beef Burger",
+        "category": "Veggie Burger",
+        "rating": 4.2,
+        "img": "product_F",
+        "price": "210 $",
+        "description": "Juicy, big, loaded with toppings of my choice. High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!",
+        "nutrition": [
+            {
+                "Calories": "418 cal"
+            },
+            {
+                "Fat": "20.9 g"
+            },
+            {
+                "Sodium": "515 mg"
+            },
+            {
+                "Carbohydrates": "30 g"
+            },
+            {
+                "Fiber": "1 g"
+            },
+            {
+                "Sugars": "4.4 g"
+            },
+            {
+                "Protein": "25.4 g"
+            }
+        ]
+    }
+]
