@@ -13,7 +13,7 @@ export default function Password(props) {
 
     return (
         <View style={{ width: 360, marginHorizontal: 10, marginVertical: 8, backgroundColor: '#181818', borderRadius: 20, height: 60 , flexDirection:'row', alignItems:'center'}}>
-            <TextInput placeholder={props.placeholder} style={{ marginLeft: 26, color: 'gray' , flex:1}} placeholderTextColor={"gray"} secureTextEntry={!isVisible} onChangeText={props.onchangeText} value={props.value} />
+            <TextInput placeholder={props.placeholder} style={{ marginLeft: 26, color: 'gray' , flex:1}} placeholderTextColor={"gray"} secureTextEntry={!isVisible} onChangeText={props.onChangeText} value={props.value} />
             <TouchableOpacity onPress={togglePasswordVisibility} >
                 <Feather name={isVisible ? 'eye':'eye-off'} size={20} color={'gray'} style={{marginRight:20}} />
             </TouchableOpacity>

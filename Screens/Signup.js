@@ -17,6 +17,8 @@ export default function SignUp(props) {
     const [email, setEmail] = useState('');
     const [phone, setPhone] = useState('');
     const [password, setPassword] = useState('');
+    const [location, setLocation] = useState('');
+
 
 
     const SignUp =async () => {
@@ -24,6 +26,7 @@ export default function SignUp(props) {
             name,
             email,
             phone,
+            location
         });
         createUserWithEmailAndPassword(auth, email, password)
             .then((userCredential) => {
@@ -55,6 +58,8 @@ export default function SignUp(props) {
                     <TextInputField placeholder={'Name'} onchangeText={(t)=>setName(t)} value={name} />
                     <TextInputField placeholder={'Email'} onchangeText={(t)=>setEmail(t)} value={email} />
                     <TextInputField placeholder={'Phone Number'} onchangeText={(t)=>setPhone(t)} value={phone}  />
+                    <TextInputField placeholder={'Location'} onchangeText={(t)=>setLocation(t)} value={location}  />
+
                     <Password placeholder={'Password'} onchangeText={(t)=>setPassword(t)} value={password} />
                 </View>
                 <View style={{ marginTop: 90 }}>

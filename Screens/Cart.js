@@ -43,6 +43,7 @@ export default function Cart() {
               shadowOpacity: 0.25,
               shadowRadius: 5,
               elevation: 10,
+
             }}>
               <Text style={{ fontSize: 16, marginTop: 20, marginHorizontal: 10, marginLeft: 15 }}>{parseInt(item.quantity)}x</Text>
 
@@ -56,8 +57,12 @@ export default function Cart() {
             </View>
           )}
         />
+        <View style={{marginLeft:20, marginVertical:20}}>
+          <Text style={{marginBottom:5, marginLeft:5, fontWeight:'500'}}>Food Price:                                                         {getTotalPrice()} $</Text>
+          <Text style={{marginBottom:5,marginLeft:5, fontWeight:'500'}}>Delivery Charges:                                              2 $</Text>
+        </View>
         <View style={{ width: "100%", height: 50, borderRadius: 20, backgroundColor: '#FFA500', alignSelf: 'center', marginVertical: 6, }}>
-          <Text style={{ color: 'brown', fontSize: 16, alignSelf: 'center', marginTop: 11, fontWeight: 'bold' }}>Your Total Bill is : {getTotalPrice()} $</Text>
+          <Text style={{ color: 'brown', fontSize: 16, alignSelf: 'center', marginTop: 11, fontWeight: 'bold' }}>Your Total Bill is : {cartItems.length>0 ? getTotalPrice()+2:0} $</Text>
 
         </View>
 

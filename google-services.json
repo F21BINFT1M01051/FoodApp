@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522380942024",
+    "project_id": "food-app-8cb54",
+    "storage_bucket": "food-app-8cb54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522380942024:android:f0cb82098ebf7a2b6823fd",
+        "android_client_info": {
+          "package_name": "com.sana_bwpMyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522380942024-fau2rlu8avfspaa5cjt2pr0kg0tq7agi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sana_bwpMyapp",
+            "certificate_hash": "4f041e2ed964811b90571e5379ca3465870648b6"
+          }
+        },
+        {
+          "client_id": "522380942024-pfqbfrm4garpqb64rgkkfis22ua5sgts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sana_bwpMyapp",
+            "certificate_hash": "a3f01bf991c0b3d0cef768831e343833a72a80c2"
+          }
+        },
+        {
+          "client_id": "522380942024-e7st8khd8o6d9gs8tcqbfvm450tskdha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMViFjTvH0Dr3dGdkreC0Q4DDIcc25QoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522380942024-e7st8khd8o6d9gs8tcqbfvm450tskdha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
